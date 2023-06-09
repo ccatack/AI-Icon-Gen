@@ -9,4 +9,4 @@ Once you have cloned the repo to your local machine, navigate to the project's d
 `npm install`
 
 To run the app, run the following command:
-`streamlit run appy.py`
+`npm run start`
