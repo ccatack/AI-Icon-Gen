@@ -9,4 +9,4 @@ Once you have cloned the repo to your local machine, navigate to the project's d
 `pip install streamlit langchain openai wikipedia tiktoken`
 
 To run the app, run the following command:
-`npm run start`
+`npm run start` or `streamlit run appy.py`
